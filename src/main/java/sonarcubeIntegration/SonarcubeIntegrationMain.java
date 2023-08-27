@@ -1,4 +1,4 @@
-package com.sonarcubeintegration;
+package sonarcubeIntegration;
 
 public class SonarcubeIntegrationMain {
 
