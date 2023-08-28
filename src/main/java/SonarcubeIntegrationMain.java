@@ -7,5 +7,6 @@ public class SonarcubeIntegrationMain {
         System.out.println("hello world..........!");
         System.out.println(calc.add(2,4));
         System.out.println(calc.multi(2,4));
+        System.out.println(calc.divide(2,4));
     }
 }
